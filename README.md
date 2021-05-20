@@ -31,3 +31,15 @@ This repository contain frontend project
 
 # links
 [google](https://www.google.com/search?q=venky+images&oq=&aqs=chrome.1.69i59i450l8.196886141j0j15&sourceid=chrome&ie=UTF-8)
+
+~~~python
+def fun():
+ print("hi")
+~~~
+
+# tables
+Table 1 | Table 2
+------- | -------
+Table body1|Table body2
+
+
